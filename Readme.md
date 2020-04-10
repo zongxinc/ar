@@ -6,7 +6,7 @@ Welcome! This open source project is an argument reality electronic music pad ba
 The MVP of this project is an expandable virtual pad that can be displayed on any plain surface, for instance, a desk or dining table.
 
 ## User Stroy
-If I was a user, I would use the app to compose music in the kitchen while I am wait for the dishes.
+If I was a user, I would use the app to compose music in kitchen while I am waiting for the dishes.
 
 If I was a user, I would use the app to watch my friend's record pieces.
 
