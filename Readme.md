@@ -8,12 +8,6 @@ The MVP of this project is an expandable virtual pad that can be displayed on an
 ## Software Components (Ver 1.0)
 graph LR
     Start --> Stop
-graphLR
-  E[3D Modules]
-  A[AR Core Plugin] -- modleing --> B((MVP))
-  F[Music Composing] --> D
-  E --> B
-  B --> D{Version 1.0}
 
 ## Time Schedule
 In team of two, we will basically work together before version 1.0:
