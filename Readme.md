@@ -7,7 +7,7 @@ The MVP of this project is an expandable virtual pad that can be displayed on an
 
 ## Software Components (Ver 1.0)
 <p align="center">
-  <img width="800" height="500" src="/components.png">
+  <img width="600" height="375" src="/components.png">
 </p>
 
 ## Time Schedule
