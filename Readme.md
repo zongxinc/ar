@@ -6,6 +6,8 @@ Welcome! This open source project is an argument reality electronic music pad ba
 The MVP of this project is an expandable virtual pad that can be displayed on any plain surface, for instance, a desk or dining table.
 
 ## Software Components (Ver 1.0)
+graph LR
+    Start --> Stop
 graphLR
   E[3D Modules]
   A[AR Core Plugin] -- modleing --> B((MVP))
