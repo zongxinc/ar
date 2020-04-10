@@ -7,7 +7,9 @@ The MVP of this project is an expandable virtual pad that can be displayed on an
 
 ## User Stroy
 If I was a user, I would use the app to compose music in the kitchen while I am wait for the dishes.
+
 If I was a user, I would use the app to watch my friend's record pieces.
+
 If I was a user, I would use the app to play some improvise music at a home party.
 
 ## Software Components (Ver 1.0)
