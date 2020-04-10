@@ -6,10 +6,6 @@ Welcome! This open source project is an argument reality electronic music pad ba
 The MVP of this project is an expandable virtual pad that can be displayed on any plain surface, for instance, a desk or dining table.
 
 ## Software Components (Ver 1.0)
-{% mermaid %}
-graph LR
-    Start --> Stop
-{% endmermaid %}
 
 ## Time Schedule
 In team of two, we will basically work together before version 1.0:
